@@ -1,0 +1,189 @@
+Got a timestamp
+-*--*--*--*--*--*--*--*--*--*-
+
+Got the device list from inventory
+-*--*--*--*--*--*--*--*--*--*-
+
+Opened connection to 172.30.33.22
+-*--*--*--*--*--*--*--*--*--*-
+
+Backup file path will be test1_backups\NX4\NX4-2020_04_28-16_52_51.txt
+-*--*--*--*--*--*--*--*--*--*-
+
+Opened connection to 172.30.33.21
+-*--*--*--*--*--*--*--*--*--*-
+
+Backup file path will be test1_backups\VSS2\VSS2-2020_04_28-16_52_51.txt
+-*--*--*--*--*--*--*--*--*--*-
+
+Opened connection to 172.30.33.20
+-*--*--*--*--*--*--*--*--*--*-
+
+Backup file path will be test1_backups\NX3\NX3-2020_04_28-16_52_51.txt
+-*--*--*--*--*--*--*--*--*--*-
+
+Opened connection to 172.30.33.24
+-*--*--*--*--*--*--*--*--*--*-
+
+Backup file path will be test1_backups\CentralR\CentralR-2020_04_28-16_52_51.txt
+-*--*--*--*--*--*--*--*--*--*-
+
+Opened connection to 172.30.33.23
+-*--*--*--*--*--*--*--*--*--*-
+
+Backup file path will be test1_backups\VSS3\VSS3-2020_04_28-16_52_51.txt
+-*--*--*--*--*--*--*--*--*--*-
+
+Backup of VSS2 is complete!
+-*--*--*--*--*--*--*--*--*--*-
+
+Backup of VSS3 is complete!
+-*--*--*--*--*--*--*--*--*--*-
+
+Backup of NX3 is complete!
+-*--*--*--*--*--*--*--*--*--*-
+
+Backup of CentralR is complete!
+-*--*--*--*--*--*--*--*--*--*-
+
+check version on VSS2 is complete!
+-*--*--*--*--*--*--*--*--*--*-
+
+check version on VSS3 is complete!
+-*--*--*--*--*--*--*--*--*--*-
+
+check version on NX3 is complete!
+-*--*--*--*--*--*--*--*--*--*-
+
+check version on CentralR is complete!
+-*--*--*--*--*--*--*--*--*--*-
+
+Backup of NX4 is complete!
+-*--*--*--*--*--*--*--*--*--*-
+
+check cdp on VSS2 is complete!
+-*--*--*--*--*--*--*--*--*--*-
+
+check cdp on VSS3 is complete!
+-*--*--*--*--*--*--*--*--*--*-
+
+check cdp on NX3 is complete!
+-*--*--*--*--*--*--*--*--*--*-
+
+check cdp on CentralR is complete!
+-*--*--*--*--*--*--*--*--*--*-
+
+check version on NX4 is complete!
+-*--*--*--*--*--*--*--*--*--*-
+
+check timezone and clock source on VSS2 is complete!
+-*--*--*--*--*--*--*--*--*--*-
+
+check timezone and clock source on NX3 is complete!
+-*--*--*--*--*--*--*--*--*--*-
+
+check timezone and clock source on CentralR is complete!
+-*--*--*--*--*--*--*--*--*--*-
+
+check cdp on NX4 is complete!
+-*--*--*--*--*--*--*--*--*--*-
+
+check ntp on VSS2 is complete!
+-*--*--*--*--*--*--*--*--*--*-
+
+Connection to device VSS2 terminated
+Found a previous backup  test1_backups\VSS2\VSS2-2020_04_28-16_30_41.txt
+-*--*--*--*--*--*--*--*--*--*-
+
+Comparing configs:
+	Current backup: test1_backups\VSS2\VSS2-2020_04_28-16_52_51.txt
+	Previous backup: test1_backups\VSS2\VSS2-2020_04_28-16_30_41.txt
+	Changes: test1_backups\VSS2\VSS2-2020_04_28-16_52_51.changes
+-*--*--*--*--*--*--*--*--*--*-
+
+	Config state: changed
+-*--*--*--*--*--*--*--*--*--*-
+
+check ntp on NX3 is complete!
+-*--*--*--*--*--*--*--*--*--*-
+
+Connection to device NX3 terminated
+Found a previous backup  test1_backups\NX3\NX3-2020_04_28-16_30_41.txt
+-*--*--*--*--*--*--*--*--*--*-
+
+Comparing configs:
+	Current backup: test1_backups\NX3\NX3-2020_04_28-16_52_51.txt
+	Previous backup: test1_backups\NX3\NX3-2020_04_28-16_30_41.txt
+	Changes: test1_backups\NX3\NX3-2020_04_28-16_52_51.changes
+-*--*--*--*--*--*--*--*--*--*-
+
+	Config state: changed
+-*--*--*--*--*--*--*--*--*--*-
+
+check ntp on CentralR is complete!
+-*--*--*--*--*--*--*--*--*--*-
+
+Connection to device CentralR terminated
+Found a previous backup  test1_backups\CentralR\CentralR-2020_04_28-16_30_41.txt
+-*--*--*--*--*--*--*--*--*--*-
+
+Comparing configs:
+	Current backup: test1_backups\CentralR\CentralR-2020_04_28-16_52_51.txt
+	Previous backup: test1_backups\CentralR\CentralR-2020_04_28-16_30_41.txt
+	Changes: test1_backups\CentralR\CentralR-2020_04_28-16_52_51.changes
+-*--*--*--*--*--*--*--*--*--*-
+
+	Config state: changed
+-*--*--*--*--*--*--*--*--*--*-
+
+NTP 20.20.20.20 is unreachable. No reason to setup it.
+check timezone and clock source on VSS3 is complete!
+-*--*--*--*--*--*--*--*--*--*-
+
+check ntp on VSS3 is complete!
+-*--*--*--*--*--*--*--*--*--*-
+
+Connection to device VSS3 terminated
+Found a previous backup  test1_backups\VSS3\VSS3-2020_04_28-16_30_41.txt
+-*--*--*--*--*--*--*--*--*--*-
+
+Comparing configs:
+	Current backup: test1_backups\VSS3\VSS3-2020_04_28-16_52_51.txt
+	Previous backup: test1_backups\VSS3\VSS3-2020_04_28-16_30_41.txt
+	Changes: test1_backups\VSS3\VSS3-2020_04_28-16_52_51.changes
+-*--*--*--*--*--*--*--*--*--*-
+
+	Config state: changed
+-*--*--*--*--*--*--*--*--*--*-
+
+NTP 20.20.20.20 is unreachable. No reason to setup it.
+check timezone and clock source on NX4 is complete!
+-*--*--*--*--*--*--*--*--*--*-
+
+check ntp on NX4 is complete!
+-*--*--*--*--*--*--*--*--*--*-
+
+Connection to device NX4 terminated
+Found a previous backup  test1_backups\NX4\NX4-2020_04_28-16_30_41.txt
+-*--*--*--*--*--*--*--*--*--*-
+
+Comparing configs:
+	Current backup: test1_backups\NX4\NX4-2020_04_28-16_52_51.txt
+	Previous backup: test1_backups\NX4\NX4-2020_04_28-16_30_41.txt
+	Changes: test1_backups\NX4\NX4-2020_04_28-16_52_51.changes
+-*--*--*--*--*--*--*--*--*--*-
+
+	Config state: changed
+-*--*--*--*--*--*--*--*--*--*-
+
+-----------------------------------------------------------------------------------------------
+Hostname   | Type    | IOS version     | PE/NPE | CDP Neighbors      | NTP state              |
+-----------------------------------------------------------------------------------------------
+NX3        | IOSv    | 15.2(4.0.55)E   | PE     | CDP is ON, 1 peers | Clock in Sync          |
+VSS2       | IOSv    | 15.2(4.0.55)E   | PE     | CDP is ON, 1 peers | Clock in Sync          |
+NX4        | IOSv    | 15.2(4.0.55)E   | PE     | CDP is ON, 2 peers | NTP is not enabled.    |
+VSS3       | IOSv    | 15.2(4.0.55)E   | PE     | CDP is ON, 2 peers | NTP is not enabled.    |
+CentralR   | IOSv    | 15.6(2)T        | PE     | CDP is ON, 4 peers | Clock in Sync          |
+-----------------------------------------------------------------------------------------------
+
+Process finished with exit code 0

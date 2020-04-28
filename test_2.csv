@@ -1,0 +1,6 @@
+hostname,ip,username,password,secret,device_type,ntp_addr
+NX3,172.30.33.20,cisco,cisco123,cisco321,cisoc_ios,20.20.20.20
+VSS2,172.30.33.21,cisco,cisco123,cisco321,cisoc_ios,20.20.20.20
+NX4,172.30.33.22,cisco,cisco123,cisco321,cisoc_ios,20.20.20.20
+VSS3,172.30.33.23,cisco,cisco123,cisco321,cisoc_ios,20.20.20.20
+ControlR,172.30.33.24,cisco,cisco123,cisco321,cisoc_ios,20.20.20.20
